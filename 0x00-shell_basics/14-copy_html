@@ -1,2 +1,2 @@
-#!/bin/bas
-cp -n *.html ..
+cp -nu *.html ..
+cp -nu *.html ..
