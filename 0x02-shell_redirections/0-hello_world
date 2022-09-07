@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-Hello, world
-Hello, world
-=======
 #!/bin/bash
-echo "hello, world"
->>>>>>> 415bde88fea5b51ecb5ba72c8ae99a765ca84ff8
+echo "Hello,World"
